@@ -1,0 +1,6 @@
+username =bugman
+password =0ea95f2628
+token =d261a3ae1731cc90f83ad6260fa293ca
+basic_url_api_post =https://test-stand.gb.ru/api/posts
+basic_url_login =https://test-stand.gb.ru/gateway/login
+basic_url =https://test-stand.gb.ru/
